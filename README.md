@@ -1,4 +1,4 @@
-# non-backtracking_centrality
+# Non-backtracking Centrality
 Compute the non-backtracking centrality of a networkx graph, see:
 
 **Localization and centrality in networks**<br>
